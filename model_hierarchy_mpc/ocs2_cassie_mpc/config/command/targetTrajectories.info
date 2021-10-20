@@ -1,0 +1,24 @@
+targetDisplacementVelocity          0.5;
+targetRotationVelocity              0.0;
+
+comHeight                           0.85
+
+defaultJointState
+{
+   (0,0)   -0.0749               ; LeftHipRoll
+   (1,0)   -0.0079205            ; LeftHipYaw
+   (2,0)   0.54122793            ; LeftHipPitch
+   (3,0)   -1.27544558           ; LeftKneePitch
+   (4,0)   -0.00014646           ; LeftShinPitch
+   (5,0)   1.503149867           ; LeftTarsusPitch
+   (6,0)   0.0                   ; LeftAchillesSpring
+   (7,0)   -1.0053552389144897   ; LeftFootPitch
+   (8,0)   0.0749               ; RightHipRoll
+   (9,0)   0.0079205            ; RightHipYaw
+   (10,0)  0.54122793            ; RightHipPitch
+   (11,0)  -1.27544558           ; RightKneePitch
+   (12,0)  -0.00014646           ; RightShinPitch
+   (13,0)  1.503149867           ; RightTarsusPitch
+   (14,0)  0.0                   ; RightAchillesSpring
+   (15,0)  -1.0053552389144897   ; RightFootPitch
+}
